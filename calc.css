@@ -23,6 +23,7 @@
   padding: 20px;
   border-radius: 10px;
   border: 2px solid rgb(129, 125, 125) ;
+  
 }
 .btn input{
   color: black;
@@ -30,14 +31,20 @@
   margin-top: 0.5rem;
   width: 22%;
   height: 2rem;
-  border: none;
+  border: solid 2px black;
   box-shadow: 1px 1px 1px gray;
+  cursor: pointer;
 }
 
 .calc form input{
   box-shadow: 1px 1px 1px gray;
-  border: none;
+  border: solid 2px black;
   height: 2rem;
   width: 95%;
+}
+.btn input.equal{
+  background-color: orange;
+  color: #fff;
+  border: orange solid 2px ;
 }
 
