@@ -30,7 +30,7 @@ Calculator/
 ## 🚀 Getting Started
 
 1. Clone this repository:
-2. <a href="">Click Here1</a>
+2. <a href="https://trisha-developer.github.io/Calculator-using-html-css-javascript/">Click Here!</a>
 
 3. Open the project folder.
 
