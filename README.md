@@ -27,16 +27,9 @@ Calculator/
 
 *Note: File names may vary depending on your project.*
 
-## 🚀 Getting Started
+## 🚀 Deployment
 
-1. Clone this repository:
-2. <a href="https://trisha-developer.github.io/Calculator-using-html-css-javascript/">Click Here!</a>
-
-3. Open the project folder.
-
-4. Open `index.html` in your browser.
-
-5. Start using the calculator!
+<a href="https://trisha-developer.github.io/Calculator-using-html-css-javascript/">Click Here!</a>
 
 ## 🎯 Purpose
 
